@@ -9,6 +9,7 @@ import java.util.Scanner;
  */
 public class DecodeLabs_java_P4 {
 
+
     // 1. Exchange Rates (USD Pivot Rates)
     private static final BigDecimal USD_TO_EUR = new BigDecimal("0.92");
     private static final BigDecimal USD_TO_GBP = new BigDecimal("0.79");
