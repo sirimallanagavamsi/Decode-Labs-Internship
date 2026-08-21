@@ -77,4 +77,4 @@ public class DecodeLabs_Java_P2 {
 
         scanner.close();
     }
-}
+} 
