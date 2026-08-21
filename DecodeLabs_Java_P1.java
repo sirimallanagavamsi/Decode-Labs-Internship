@@ -109,4 +109,4 @@ public class DecodeLabs_Java_P1 {
 
         scanner.close();
     }
-} 
+}  
