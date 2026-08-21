@@ -6,7 +6,7 @@
  *                average percentage, and assigns grades based on logic ladder.
  * ------------------------------------------------------------------
  */
-
+ 
 import java.util.Scanner;
 
 public class DecodeLabs_Java_P2 {
